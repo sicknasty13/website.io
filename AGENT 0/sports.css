@@ -1,0 +1,61 @@
+:root {
+	background: black ;
+	color: #545091 ;
+}
+* { text-align: center;
+	
+}
+
+body {
+    width:  1000px;
+    height: 1000px;
+    margin: 0 auto;
+    border: groove;
+    border-color: #FFD700;
+
+}
+
+nav {
+    font-family:Papyrus;
+    font-size: 25px;
+    border: groove;
+    border-color: #FFD700;
+    height:80px;
+}
+.nav {
+    display: inline;
+    padding: 5px;
+}
+.logo {
+    float: left;
+    height: 80px;
+    width: 90px;
+}
+.logor {
+    float: right;
+    height: 80px;
+    width: 90px;
+}
+article{
+	height: 400px;
+}
+aside {
+	border: groove;
+	border-color: #FFD700;
+	height: 275px;
+}
+.sports{
+	width: 300px;
+	display: inline-flex;
+}
+.hip {
+	float: right;
+}
+.litty {
+	display: inline-flex;
+}
+.jawn {
+    height: 69px;
+    border: groove;
+    border-color: #FFD700;
+}
